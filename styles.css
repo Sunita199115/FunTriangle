@@ -1,0 +1,69 @@
+body {
+  text-align: center;
+  color: blue;
+}
+.cls_input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+  padding: 2rem;
+  font-size: large;
+  border-radius: 0.5rem;
+}
+.sty_input {
+  margin: 2%;
+}
+#Is-triangle-button,
+#submit-answer-btn,
+#hypotenuse-btn {
+  border: 2px solid blue;
+  background-color: blue;
+  color: white;
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  font-size: large;
+  cursor: pointer;
+  margin: 1rem auto;
+  display: block;
+}
+nav {
+  color: white;
+  background-color: blue;
+  width: 100%;
+  height: 100px;
+  display: block;
+  text-align: right;
+  text-decoration: none;
+}
+.cls_inp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}
+.cls_style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}
+h1,
+nav {
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  font-size: bold;
+  padding-right: 2rem;
+}
+.side-input {
+  border: 1px solid blue;
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  font-size: large;
+  cursor: pointer;
+  margin: 1rem auto;
+  display: block;
+}
